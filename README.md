@@ -26,3 +26,10 @@ Then open http://localhost:8080.
 - `screenshots/4-spoiler.jpg` — spoiler cover enabled with quick settings open.
 
 Each scene is available at its matching `?shot=` URL. An ordinary load begins with an empty checklist.
+
+## Verify
+
+With the server running on port 8080 and Playwright installed, run `node verify.cjs`.
+If Playwright is installed elsewhere, set `PLAYWRIGHT_MODULE` to that module's path.
+The check covers all four scenes, filters, local saves, notes, counters, export/import/reset,
+guide navigation, masked search, console errors and requests leaving the app.

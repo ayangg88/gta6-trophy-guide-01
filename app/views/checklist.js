@@ -12,7 +12,7 @@ export function renderChecklist(page, trophies, state, selectedId, filters, onSe
   page.innerHTML = `<div class="page-heading"><div><span class="eyebrow">YOUR COLLECTION · PS5</span><h1>Trophy ledger<span class="period">.</span></h1><p>55 marks on the road to a Leonida platinum.</p></div><div class="heading-side"><span class="launch-tag">GUIDE STATUS <b>LAUNCH DAY · 19 NOV 2026</b></span><button class="text-button" data-goto="planner">Plan next →</button></div></div>
     <section class="tracker-grid">
       <div class="list-pane">
-        <div class="list-title"><div><b>THE TROPHY LIST</b><span>${visible.length} shown · ${state.earned.length} earned</span></div><label class="switch-label"><input id="spoiler-toggle" type="checkbox" ${state.spoiler?'checked':''}><span class="switch"></span>Spoilers</label></div>
+        <div class="list-title"><div><b>THE TROPHY LIST</b><span>${visible.length} shown · ${state.earned.length} earned</span></div><label class="switch-label"><input id="spoiler-toggle" type="checkbox" ${state.spoiler?'checked':''}><span class="switch"></span>Spoiler cover</label></div>
         <div class="filters">
           <label class="search-box"><span>⌕</span><input id="search" type="search" placeholder="Search the guide…" value="${escapeAttr(filters.search)}"><kbd>/</kbd></label>
           <select aria-label="Grade filter" id="grade-filter">${options(grades,filters.grade)}</select><select aria-label="Kind filter" id="kind-filter">${options(kinds,filters.kind)}</select><select aria-label="Earned filter" id="status-filter">${options([['','All status'],['open','Unearned'],['earned','Earned']],filters.status)}</select>

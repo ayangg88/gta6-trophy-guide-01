@@ -13,22 +13,23 @@ const filters={search:'',grade:'',kind:'',status:''};
 let trophies=[];
 let selectedId=1;
 let activePage='checklist';
+let showShotDrawer=true;
 const queryShot=new URLSearchParams(location.search).get('shot');
-const shotEarned=[1,14,15,16,17,18,19,20,21,22,23,24,25];
+const shotEarned=[2,3,4,5,6,8,9,10,15,16,17,18,19];
 
 function syncHeader(){
  const count=store.get().earned.length;
  root.querySelector('#earned-count').textContent=count;
  root.querySelector('#progress-fill').style.width=`${count/55*100}%`;
 }
-function choose(id){selectedId=id;paint();}
+function choose(id){if(activePage!=='checklist')Object.assign(filters,{search:'',grade:'',kind:'',status:''});selectedId=id;activePage='checklist';paint();}
 function render(){
  syncHeader();
  page.classList.toggle('roadmap-shot',queryShot==='2'&&activePage==='roadmap');
  root.querySelectorAll('[data-page]').forEach(button=>button.classList.toggle('active',button.dataset.page===activePage));
  if(activePage==='checklist'){
   renderChecklist(page,trophies,store.get(),selectedId,filters,choose,(id,value)=>store.earned(id,value),(next)=>{Object.assign(filters,next);render();},(key,value)=>store.setting(key,value));
-  if(queryShot==='4')renderShotDrawer();
+  if(queryShot==='4'&&showShotDrawer)renderShotDrawer();
  }
  else if(activePage==='roadmap')renderRoadmap(page,trophies,store.get(),choose);
  else if(activePage==='missables')renderMissables(page,trophies,store.get(),choose);
@@ -42,7 +43,7 @@ function renderShotDrawer(){
  page.append(drawer);
  drawer.querySelector('#shot-spoiler').addEventListener('change',event=>store.setting('spoiler',event.target.checked));
  drawer.querySelector('#shot-hidden').addEventListener('change',event=>store.setting('hideHidden',event.target.checked));
- drawer.querySelector('#drawer-done').addEventListener('click',()=>navigate('checklist'));
+ drawer.querySelector('#drawer-done').addEventListener('click',()=>{showShotDrawer=false;navigate('checklist');});
 }
 root.addEventListener('click',event=>{const button=event.target.closest('[data-page]');if(button)navigate(button.dataset.page);});
 window.addEventListener('guide-page',event=>navigate(event.detail));
@@ -62,7 +63,7 @@ try{
  trophies=await loadTrophies();
  if(queryShot){
   store.stageShot(shotEarned,queryShot==='4'?{spoiler:true}:{});
-  selectedId=queryShot==='4'?2:28;
+  selectedId=queryShot==='4'?11:28;
   if(queryShot==='2')activePage='roadmap';
   if(queryShot==='3'){activePage='missables';filters.kind='missable';}
   if(queryShot==='4')activePage='checklist';
