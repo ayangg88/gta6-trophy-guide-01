@@ -8,19 +8,14 @@
       "name": "Vice Got a Price!",
       "description": "Congratulations! You're a Leonida Legend.",
       "grade": "platinum",
-      "guide": "Treat this as the end of the ledger: finish every other entry, including the separate 100% requirement. Compare the remaining unchecked trophies before planning another session; completion percentage alone does not establish a platinum. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Earn every other trophy; this route is reported, not yet checked in the game. Output Lag reports no mission replay or New Game Plus at launch, 15 manual slots plus one autosave, and cheats disabling trophies and saving: keep a manual save at each chapter start, an untouched save before the final mission, and never use cheats on this save. Only Positive Mental Attitude is reported missable; save before the hourglass-marked Chapter 3 Race Against Yago and do it immediately for Strangers & Freaks. The reported platinum estimate is around 200 hours, so preserve those saves throughout cleanup.",
       "hidden": false,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -28,19 +23,14 @@
       "name": "Just Like Paradise",
       "description": "Complete Gone Fishing.",
       "grade": "bronze",
-      "guide": "Follow the story until Gone Fishing is completed. Keep your opening manual save separate from autosaves and check the trophy notification after the mission ends. The description does not identify a starting marker or any optional objective. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Finish Gone Fishing as you advance the story. This is reported as unmissable, not yet checked in the game; no additional objective is established here.",
       "hidden": true,
       "target": null,
       "kind": "story",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -48,19 +38,14 @@
       "name": "Paradise Lost",
       "description": "Complete Chapter 1.",
       "grade": "bronze",
-      "guide": "Before closing Chapter 1, address the reported balcony meditation for trophy 28. Preserve a start-of-chapter save, then continue the main story through the chapter ending. No exact chapter-ending mission has been pinned down by these sources. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Follow the main missions through Chapter 1. The unmissable status and a possible unlock at the beginning of the next chapter are reported, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "story",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -68,19 +53,14 @@
       "name": "T**s Ass Drug Money",
       "description": "Complete Chapter 2.",
       "grade": "bronze",
-      "guide": "Keep a fresh Chapter 2 manual save before progressing its story objectives. This is a chapter-completion award, so do not assume a side activity finishes it. Check the unlock at the chapter transition; its ending mission is not pinned down yet. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Complete the story missions making up Chapter 2. This trophy is reported unmissable and may arrive as the next chapter begins rather than during the final cutscene, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "story",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -88,19 +68,14 @@
       "name": "Vice City, Baby!",
       "description": "Complete Chapter 3.",
       "grade": "bronze",
-      "guide": "During Chapter 3, investigate the reported race associated with Strangers & Freaks before advancing. Keep the chapter-start save and finish the chapter story. The report does not establish a required route for this chapter trophy. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Progress through Chapter 3's main story to its conclusion. An automatic unlock, sometimes at the next chapter's opening, is reported, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "story",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -108,19 +83,14 @@
       "name": "Top Of The World, Ma",
       "description": "Complete Chapter 4.",
       "grade": "bronze",
-      "guide": "Create a Chapter 4 save before advancing the main objectives. Check for this award at the chapter boundary rather than using side-mission completion as a proxy. The exact final objective of this chapter is not identified by the list. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Finish Chapter 4 by continuing its main missions. Its unmissable status and a potential delay until the following chapter starts are reported, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "story",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -128,19 +98,14 @@
       "name": "You Gotta Know When to Get Off",
       "description": "Complete the final mission.",
       "grade": "gold",
-      "guide": "Keep a separate manual save before entering the final mission. Finish that mission and check the unlock after the ending resolves. No ending choice or medal requirement appears in the description, so this guide does not prescribe one. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Play through the final story mission. This is reported as an unmissable story reward, not yet checked in the game; retain your separate pre-finale save for the wider platinum route.",
       "hidden": true,
       "target": null,
       "kind": "story",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -148,19 +113,14 @@
       "name": "Trust",
       "description": "Complete Breakfast Run.",
       "grade": "bronze",
-      "guide": "When Breakfast Run becomes available, follow its mission objectives through the completion screen. Preserve a manual save beforehand if you want to revisit the sequence: mission replay is reported unavailable. Its chapter and start location are not pinned down yet. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Continue the story until Breakfast Run and finish the mission. The automatic, unmissable unlock is reported, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "story",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -168,19 +128,14 @@
       "name": "Break the Bank",
       "description": "Complete The Cartel Heist.",
       "grade": "bronze",
-      "guide": "Work through The Cartel Heist when the story presents it. Save before committing and finish the full mission rather than stopping after the robbery itself. The description does not establish a required approach, payout or chapter. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Finish The Cartel Heist on the main story path. Its status as an unmissable mission reward is reported, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "story",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -188,19 +143,14 @@
       "name": "Family Matters",
       "description": "Complete Child's Play.",
       "grade": "bronze",
-      "guide": "Continue the story until Child's Play is offered and complete its objectives. Record the unlock before overwriting your pre-mission save. No source here pins down the start location or any special performance condition. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Work through the main story and complete Child's Play. This mission trophy is reported unmissable, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "story",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -208,19 +158,14 @@
       "name": "DWNFALL",
       "description": "Complete Headliners.",
       "grade": "bronze",
-      "guide": "Finish Headliners when it appears in the story. Keep a pre-mission save so a failed unlock can be investigated without relying on replay. Its chapter and optional objectives are not established by the official wording. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Complete Headliners during the main story. It is reported to award this trophy without a separate challenge, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "story",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -228,19 +173,14 @@
       "name": "Hi-Jacked",
       "description": "Complete VCIA Takedown.",
       "grade": "bronze",
-      "guide": "Complete VCIA Takedown through the mission result. Do not assume that simply visiting VCIA satisfies this story award; the named mission is the condition. Its trigger and placement within the chapters remain unpinned. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Reach VCIA Takedown through normal story progress and finish it. The trophy is reported unmissable, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "story",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -248,19 +188,14 @@
       "name": "Snow Storm",
       "description": "Complete Operation Savage Glory.",
       "grade": "bronze",
-      "guide": "Progress to Operation Savage Glory and finish its mission objectives. Keep your chapter save until the unlock is recorded. The list does not specify a route, location or extra challenge for this award. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Finish the story mission Operation Savage Glory. Its unmissable unlock is reported, not yet checked in the game; the description specifies no extra performance requirement.",
       "hidden": true,
       "target": null,
       "kind": "story",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -268,23 +203,15 @@
       "name": "A Long Road",
       "description": "Attain 100% Completion.",
       "grade": "gold",
-      "guide": "Leave the final percentage audit until after story, stranger strands and exploration. Use the game's completion display to identify missing categories and note each change. These sources do not define the full 100% checklist, so earning every collectible trophy cannot yet be treated as sufficient. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "The checklist is reported to appear after the story under Progress > Stats > 100% Completion, with earlier accomplishments retained; this is reported, not yet checked in the game. Reported requirements include 300 stunts, 70 of 80 challenges, 200 of 277 base vehicle models, all eight vaults and all 39 illegal operations. Use that checklist for cleanup rather than assuming the smaller individual trophy totals finish it.",
       "hidden": false,
       "target": 100,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -292,23 +219,15 @@
       "name": "Cunning Stunts",
       "description": "Complete 250 Stunts.",
       "grade": "silver",
-      "guide": "Track successful stunt completions rather than attempts. Work in short batches and compare the PSN count before repeating a route; the description does not establish whether repetitions qualify. No sourced stunt map or exact scoring threshold is available here. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Stunt jumps, flights under bridges, knife flights and base jumps are all reported to contribute, not yet checked in the game. Reach 250 for the trophy, then continue toward the reported 300 required for 100% completion.",
       "hidden": false,
       "target": 250,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -316,23 +235,15 @@
       "name": "Master of None",
       "description": "Try each type of activity once.",
       "grade": "bronze",
-      "guide": "Keep a nine-row activity log and try a different activity type on each outing. Compare the count after each first attempt to distinguish a type from another venue of the same activity. The complete type list and minimum participation rule are not pinned down yet. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Try each activity category, using the listed count of nine to track coverage. This description-based advice is not yet checked in the game; a verified list of the nine categories is not supplied here.",
       "hidden": false,
       "target": 9,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -340,23 +251,15 @@
       "name": "The Shootist",
       "description": "Earn a gold medal in all Shooting Range challenges.",
       "grade": "silver",
-      "guide": "Use the range's results to note which challenges still lack gold. Practice those individually instead of replaying already-gold events, and check the PSN count against 42. Range locations and gold score thresholds are not established by these sources. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Two shooting ranges are reported to contain 42 gold medals between them, not yet checked in the game. Work through the challenges at both ranges and return to any result below gold.",
       "hidden": false,
       "target": 42,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -364,23 +267,15 @@
       "name": "Top Fun",
       "description": "Win a Top Fun Drone Race at every location.",
       "grade": "bronze",
-      "guide": "Record each drone-race venue after a win and move to a different venue. Fourteen is the PSN target, not a sourced map of locations. A repeated win at one place should not be used as evidence that every location is covered. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Win at least one drone race at each of the reported 14 Top Fun locations. That location count and method are reported, not yet checked in the game; track locations separately so repeat wins do not obscure a missing venue.",
       "hidden": false,
       "target": 14,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -388,23 +283,15 @@
       "name": "Earn Cash, Not Kudos",
       "description": "Win 20 different races.",
       "grade": "bronze",
-      "guide": "Keep the names of twenty distinct races that you have won. Prioritize an unfinished race over improving a completed result, since the description explicitly asks for different races. Starting points and any restrictions on race types remain unpinned. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Keep a record of distinct races won until you reach 20. This advice follows the description and is not yet checked in the game; repeating a single race is not a supported substitute for different wins.",
       "hidden": false,
       "target": 20,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -412,19 +299,14 @@
       "name": "Baited My Tackle",
       "description": "Beat Cal in a fishing challenge.",
       "grade": "bronze",
-      "guide": "Look for a fishing challenge involving Cal and prepare before beginning the contest. Record whether the result actually shows a win rather than counting ordinary fishing. Cal's location, availability and winning score are not established here. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Take on Cal's fishing challenge and win. This is description-based advice, not yet checked in the game; no confirmed bait, location or scoring shortcut is available here.",
       "hidden": false,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -432,19 +314,14 @@
       "name": "Stick Fiddler",
       "description": "Complete an arcade game.",
       "grade": "bronze",
-      "guide": "Pick an arcade game you can learn consistently and work toward its ending. A high score or a single round may not count as completion; verify the trophy after finishing. No source here identifies the easiest machine or its location. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Any of the four in-game arcade games is reported to qualify when completed, not yet checked in the game. Choose one and finish it rather than stopping after a brief attempt.",
       "hidden": false,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -452,19 +329,14 @@
       "name": "Road to Rehabilitation",
       "description": "Complete the final mission for Andy.",
       "grade": "bronze",
-      "guide": "Follow Andy's available missions as a strand, recording each completed job. Continue until the final job is finished rather than assuming the first meeting counts. Andy's first marker and the number of intermediate missions are not pinned down. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Follow Andy's questline as Lucia through its final mission. The character restriction and availability after the credits are reported, not yet checked in the game; Andy's strand is also reported not to count toward Strangers & Freaks.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -472,19 +344,14 @@
       "name": "This Was No Boat Accident",
       "description": "Complete the final mission for Kenton.",
       "grade": "bronze",
-      "guide": "Work through Kenton's missions in sequence and check the unlock after the last mission result. Keep notes on unresolved markers so the strand is not confused with general boating activities. Its starting place and exact sequence are not sourced here. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Continue Kenton's side missions until you finish his finale. The questline is reported to remain available after the credits, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -492,19 +359,14 @@
       "name": "The Lone Rider",
       "description": "Complete the final mission for Billy.",
       "grade": "bronze",
-      "guide": "Follow Billy's mission strand to its final job. Keep a record of the last completed mission to help distinguish a temporary pause from a finished strand. No start location or unlock schedule is established by the official description. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Complete Billy's full questline, including its last mission. Post-credits availability and exclusion from the Strangers & Freaks total are reported, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -512,27 +374,16 @@
       "name": "Strangers & Freaks",
       "description": "Complete 8 mission strands for strangers across the state of Leonida.",
       "grade": "silver",
-      "guide": "Maintain a list of eight fully completed stranger strands, not eight individual jobs. Andy, Kenton, Billy, Randy and Tyrone have separate final-mission awards, but the list alone does not prove which strands count. A Chapter 3 race is reported to contribute; investigate it during that chapter and retain a save. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Finish eight qualifying strands and inspect the trophy progress counter after each; Andy's, Billy's and Tyrone's strands are reported to be excluded because they award separate trophies. Save before Chapter 3's hourglass-marked Race Against Yago and complete it immediately, since it is reported time-sensitive and contributes here. These requirements are reported, not yet checked in the game.",
       "hidden": false,
       "target": 8,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        },
-        {
-          "name": "Output Lag · reported, unverified claims",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"},
+        {"name": "Output Lag · reported, unverified claims", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
       ]
     },
     {
@@ -540,19 +391,14 @@
       "name": "Supply & Demand",
       "description": "Complete the final mission for Randy.",
       "grade": "bronze",
-      "guide": "Continue Randy's jobs until the strand's final mission has been completed. Compare the mission result with this unlock before moving on. These sources do not establish Randy's first location, prerequisites or total number of jobs. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Work through Randy's missions and finish the final assignment. The strand is reported to stay accessible after the credits, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -560,19 +406,14 @@
       "name": "Spin On This!",
       "description": "Complete the final mission for Tyrone.",
       "grade": "bronze",
-      "guide": "Finish Tyrone's full mission sequence and check for the award after the final job. Record any unfinished follow-up rather than counting the first mission as the strand. Its start marker and chapter availability are not pinned down yet. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Play as Jason to complete Tyrone's questline through its finale. Jason-only access, post-credits availability and exclusion from Strangers & Freaks are reported, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -580,27 +421,16 @@
       "name": "Positive Mental Attitude",
       "description": "Meditate at every spot across Leonida.",
       "grade": "bronze",
-      "guide": "Prioritize meditation before leaving Chapter 1. Output Lag is a reported source for Lucia's balcony meditation disappearing after that chapter; this is reported, not confirmed or checked in the game. Keep a manual save at the start of every chapter and one before the final mission because mission replay is reported unavailable. Log each unique spot toward 18; the remaining coordinates are not pinned down by the sources used here. Advice inferred from the official description; not yet checked in the game. This is the only reported missable trophy.",
+      "guide": "This is the only reported missable trophy, not yet checked in the game: seek nearby purple icons for the 18-count target and bring your partner, because outdoor spots reportedly count twice when both characters meditate. In Chapter 1, after Lucia returns home, check the kitchen in the morning, usually after Down to Earth, follow her onto Jason's balcony and accept the optional task; it disappears after that chapter and reportedly contributes, although its strict necessity is unconfirmed, so retain a Chapter 1 save until unlock. With no replay or New Game Plus reported at launch, keep chapter-start manual saves in the reported 15 slots plus one autosave and preserve an untouched pre-final-mission save; never use cheats, which reportedly disable trophies and saving. Also save before and immediately complete Chapter 3's time-sensitive, hourglass-marked Race Against Yago for Strangers & Freaks; all these steps are reported, not yet checked in the game.",
       "hidden": false,
       "target": 18,
       "kind": "missable",
       "missable": true,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        },
-        {
-          "name": "Output Lag · reported, unverified claims",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"},
+        {"name": "Output Lag · reported, unverified claims", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
       ]
     },
     {
@@ -608,19 +438,14 @@
       "name": "Fair Game",
       "description": "Hunt a unique animal for Bret.",
       "grade": "bronze",
-      "guide": "Pursue Bret's hunting request and identify the requested unique animal before hunting. An ordinary animal of a similar type is not evidence of meeting the requirement. Bret's location, the species and a spawn route have not been pinned down here. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Bret Vogel's hunting strand is reported to be Jason-only, with target decks directing you toward animals and a clean head or heart shot preserving a pristine carcass. Follow those targets to hunt a unique animal; the strand is reported to remain after the credits. These details are reported, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -628,23 +453,15 @@
       "name": "Don't Touch My Deck",
       "description": "Complete 3 Collectible Card sets.",
       "grade": "silver",
-      "guide": "Sort found cards by set and note missing entries. Aim to finish three sets rather than merely accumulating three cards or many duplicates. Set sizes, card locations and any trading mechanic are not established by the official wording. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Track missing cards by set and finish three whole sets rather than collecting three individual cards. This interpretation of the description is not yet checked in the game; no verified card locations are supplied here.",
       "hidden": false,
       "target": 3,
       "kind": "collectibles",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -652,23 +469,15 @@
       "name": "You WAiNKer!",
       "description": "WAiNK It at 100 locations.",
       "grade": "silver",
-      "guide": "Log each distinct WAiNK location when the relevant action succeeds. Compare the PSN count during exploration to avoid treating repeated use of one location as new progress. The sources do not pin down what the interaction looks like or provide a location map. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Use WAiNK It at 100 locations and keep a checklist of places already credited. This description-based plan is not yet checked in the game; a confirmed location route is not available here.",
       "hidden": false,
       "target": 100,
       "kind": "collectibles",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -676,23 +485,15 @@
       "name": "One Last Thing",
       "description": "Complete 50 Challenges.",
       "grade": "bronze",
-      "guide": "Use any in-game challenge list to select unfinished tasks and record their completion. Work toward fifty completions while checking which tasks actually advance PSN. Challenge categories, prerequisites and an efficient route have not been pinned down yet. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Progress > Challenges is reported to list the objectives, many of which complete during ordinary play, not yet checked in the game. Finish 50 for this trophy and continue toward the reported 70 of 80 needed for 100% completion.",
       "hidden": false,
       "target": 50,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -700,19 +501,14 @@
       "name": "Hot Together",
       "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
       "grade": "bronze",
-      "guide": "Prepare transport before attempting a four-star escape with your partner present. Confirm the wanted level reaches four stars, then focus on escaping together and fully clearing the heat. The exact partner-distance and escape detection rules are not sourced here. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Bring your partner to a bank vault job, which reportedly starts a four-star pursuit, and escape together. The trophy reportedly waits until you leave the red heat zone, not merely the flashing search area. This combined route is reported, not yet checked in the game; vault access reportedly follows the optional late-Chapter 4 mission That's Where The Money Is.",
       "hidden": false,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -720,19 +516,14 @@
       "name": "Retail Therapy",
       "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
       "grade": "bronze",
-      "guide": "Plan three shops close enough to visit consecutively with your partner. Keep the wanted level active between robberies and reserve your escape for after the third. Shop coordinates and the precise reset rule are not pinned down, so save before testing a route. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Call your partner and rob three shops consecutively while police are actively pursuing you. If the stars vanish and only the red heat zone remains, the chain reportedly breaks; after the third shop the unlock may take about 30 seconds. This procedure is reported, not yet checked in the game.",
       "hidden": false,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -740,23 +531,15 @@
       "name": "Whip It Good",
       "description": "Discover 100 vehicles.",
       "grade": "bronze",
-      "guide": "Keep a list of newly encountered vehicles and check which encounters increase the discovery count. Favor unfamiliar models rather than repeats. The list does not explain whether seeing, entering or owning a vehicle registers discovery; test that before a long collection session. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Scan passing traffic with the WAiNK app: scanning is reported to count as discovering a vehicle, not yet checked in the game. Reach 100 for the trophy, then aim for the reported 200 of 277 base models needed for 100% completion.",
       "hidden": false,
       "target": 100,
       "kind": "collectibles",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -764,19 +547,14 @@
       "name": "Gunslinger",
       "description": "Take down 5 enemies in a single use of Combat Focus.",
       "grade": "bronze",
-      "guide": "Wait for an encounter where five enemies can be addressed during one Combat Focus activation. Prepare your equipment before activating it and count takedowns within that single use. Duration upgrades and a reliable encounter location are not pinned down here. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Combat Focus is reported to activate with L3 and R3 while aiming, slowing your aim; Adrenaline reportedly extends its duration. Try an assault rifle against a cluster of gang guards at an illegal operation and defeat five during one activation. The controls and suggested setup are reported, not yet checked in the game.",
       "hidden": false,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -784,19 +562,14 @@
       "name": "Catch Me If You Can",
       "description": "Make an unscheduled departure at VCIA.",
       "grade": "bronze",
-      "guide": "The description names VCIA but leaves “unscheduled departure” undefined. Keep a save before experimenting with departure interactions and record what changes. No source used here pins down the required vehicle, route or trigger, so a specific airport stunt would be speculation. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Save before entering Vice City International Airport, since police reportedly arrive quickly, and steal a large passenger plane attached to a boarding bridge; gates E3 and E4 are reported options, while planes elsewhere do not qualify. Enter the cockpit, reverse toward the runway, take off and fly roughly one kilometre away for the delayed unlock. This entire method is reported, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -804,19 +577,14 @@
       "name": "Challenging Tank",
       "description": "Kinda hot in these Rhinos.",
       "grade": "bronze",
-      "guide": "This wording is too ambiguous to establish an action. Record any Rhino-related discovery and preserve a save before experimenting, but do not assume that entering or destroying a tank is sufficient. No source here pins down a trigger or location. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Tanks are reported on the south side of Mile Zero Air Station, on the island at the map's far southwest. Save first, enter one, then drive and fire until the trophy appears; this trigger and location are reported, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -824,19 +592,14 @@
       "name": "Sneakthief",
       "description": "Rob a jewelry store without being detected.",
       "grade": "bronze",
-      "guide": "Prepare a manual save before attempting a jewelry-store robbery. Observe detection feedback and prioritize remaining unseen throughout the robbery, then verify the award. The exact store, allowed equipment and detection boundaries have not been pinned down. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "The Chapter 3 mission Yasmani's Jewelry Jobs reportedly supplies the Snap Gun and unlocks jewelry robberies; Richardson Jewelry & Diamonds in Vice City is a suggested target. Use the Snap Gun on the locked rear door rather than kicking it and triggering an alarm, find the safe-code note in the back room, empty the safe and leave unseen. Reload if detected; this route is reported, not yet checked in the game.",
       "hidden": false,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -844,23 +607,15 @@
       "name": "Maximum Withdrawal",
       "description": "Rob 5 Bank Vaults and escape.",
       "grade": "silver",
-      "guide": "Log each bank-vault robbery only after escaping. Compare the count against five before repeating a vault, since the wording does not clarify whether repeats qualify. Vault entrances, access requirements and safe exit routes are not sourced here. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Vault jobs reportedly open after That's Where The Money Is, an optional mission near Chapter 4's end: follow an armored security van to a large bank and enter while the guard holds the vault open. Bring your partner to carry the bags and escape the immediate four-star response, continuing beyond the red heat zone to combine this with Hot Together. Complete five vault escapes for this trophy, but all eight are reportedly needed for 100%; these steps are reported, not yet checked in the game.",
       "hidden": false,
       "target": 5,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -868,19 +623,14 @@
       "name": "A Classic Blitz Play",
       "description": "Rob an Armored Truck and escape.",
       "grade": "bronze",
-      "guide": "Prepare an escape plan before engaging an armored truck. Finish the robbery and clear the escape condition before recording success. No source used here establishes truck spawn locations, timing or a required method of opening one. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Rob an armored truck and make your escape. The unlock reportedly requires leaving the red heat zone as well as the flashing search area, not yet checked in the game; no specific interception method is confirmed here.",
       "hidden": false,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -888,23 +638,15 @@
       "name": "The Goodtime State",
       "description": "Explore all of Leonida.",
       "grade": "bronze",
-      "guide": "Explore methodically and note which journeys advance the PSN count toward 52. Revisit gaps in your own exploration log rather than relying on an invented region map. The count does not by itself identify the boundaries or what constitutes exploring an area. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Explore Leonida broadly and use the listed 52-count target to keep track of coverage. This description-based advice is not yet checked in the game; the precise exploration boundaries and a complete route are not confirmed here.",
       "hidden": false,
       "target": 52,
       "kind": "collectibles",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -912,23 +654,15 @@
       "name": "Pest Control",
       "description": "Rob an Illegal Operation belonging to each gang.",
       "grade": "bronze",
-      "guide": "Keep a gang-by-gang log and rob an illegal operation for a different gang each time. Check progress toward nine after each successful robbery. The gang roster, operation locations and whether escape is required are not pinned down by these sources. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Rob one illegal operation for each of the nine gangs, recording which gang each completed job belongs to. The 100% checklist reportedly requires all 39 operations, so this should unlock during that broader sweep. The gang total and cleanup relationship are reported, not yet checked in the game.",
       "hidden": false,
       "target": 9,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -936,19 +670,14 @@
       "name": "In The Beginning…",
       "description": "Enjoy a cocktail with a view on Ocean Beach.",
       "grade": "bronze",
-      "guide": "Ocean Beach is the only location explicitly supplied. Look for a cocktail interaction with a view there and check for the unlock after using it. The precise venue, seat and time of day are not pinned down, so this guide does not invent a bar name. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "There is no confirmed trigger yet for this trophy. Its description is the only hint, pointing to a cocktail and a view on Ocean Beach; this interpretation is not yet checked in the game, and it may appear during normal play.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -956,19 +685,14 @@
       "name": "Capital Offense",
       "description": "Smash your way out of a vehicle showroom in classic style.",
       "grade": "bronze",
-      "guide": "The wording points to an exit through a vehicle showroom, but “classic style” does not identify a model or method. Save before experimenting and note the outcome. No source here pins down a qualifying showroom or required vehicle. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "There is no confirmed trigger yet. The description hints at a vehicle showroom escape, but no particular showroom, vehicle or sequence is established; this reading is not yet checked in the game, and normal play may reveal it.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -976,19 +700,14 @@
       "name": "Let’s Go Bowling",
       "description": "Follow-through at the Kolt & Associates' bowling alley.",
       "grade": "bronze",
-      "guide": "Kolt & Associates' bowling alley is named, but “follow-through” leaves the exact action unclear. Investigate its interactions and record what you try. Ordinary bowling is not established as the trigger, and no precise route to the alley is sourced here. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Kolt & Associates' alley is reported to be Kingpin Bowling, an illegal operation visited in Chapter 2; bring Sticky Bombs. Collect the office's luxury watch, the shotgun on a table and the office safe's contents after blowing it open, then escape the police. An incomplete operation reportedly returns later, making this non-missable; the location, valuables and method are reported, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -996,19 +715,14 @@
       "name": "Personal Best",
       "description": "A partnership with mass appeal.",
       "grade": "bronze",
-      "guide": "The description suggests a partnership condition without defining it. Keep notes when partner activities change and compare against the unlock. No source here pins down the action, partner requirement or location; a specific gym or relationship objective would be a guess. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "The reported trigger is maximum Strength for both Jason and Lucia. Buy a gym membership and train there with your partner, who reportedly exercises alongside you; this method is reported, not yet checked in the game.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -1016,23 +730,15 @@
       "name": "Actions Speak Louder",
       "description": "Choices made (for better or worse).",
       "grade": "bronze",
-      "guide": "Record the PSN count before and after making choices to learn what the game registers. The target is 500, but the description does not define a qualifying choice or whether repeated interactions count. Do not prescribe a particular moral route from this wording. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "The reported requirement is 500 actions that alter your Criminal Profile, with robberies and fights contributing. It should accumulate during ordinary play without a dedicated grind; this interpretation is reported, not yet checked in the game.",
       "hidden": true,
       "target": 500,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -1040,19 +746,14 @@
       "name": "Bad Luck, I Guess",
       "description": "Second time's the charm.",
       "grade": "bronze",
-      "guide": "“Second time” does not identify the activity or failure condition. Preserve a save before testing any suspected encounter and note both attempts. No source here pins down where this happens yet; deliberately failing a particular mission would be unsupported advice. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "There is no confirmed trigger yet, and the description is the only available hint. The reference to a second attempt is not enough to establish a method; this interpretation is not yet checked in the game, and the trophy may appear during normal play.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -1060,19 +761,14 @@
       "name": "The Truth Is Out There",
       "description": "What the hell just happened?",
       "grade": "bronze",
-      "guide": "The description does not identify the event at all. Keep notes on unexplained encounters during exploration and verify the unlock rather than following an invented mystery route. No source here pins down a location, time or prerequisite. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "There is no confirmed trigger yet for this hidden trophy. Its description supplies no reliable procedure, so no encounter or location is prescribed here; this description-based assessment is not yet checked in the game, and it may unlock during normal play.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -1080,19 +776,14 @@
       "name": "Ten Pin",
       "description": "Bowl 'em over with a melee drive-by.",
       "grade": "bronze",
-      "guide": "Look for an opportunity to use the game's melee drive-by action and check whether the target is knocked over. Practice the control safely before an attempt. The description does not require ten victims despite the title; a qualifying location and target type remain unpinned. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "There is no confirmed trigger yet; the melee drive-by description is the only hint. A vehicle, target count and input sequence have not been established here, so this interpretation is not yet checked in the game and normal play may uncover it.",
       "hidden": true,
       "target": null,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -1100,23 +791,15 @@
       "name": "Dime on the Dollar",
       "description": "Earn $250,000 laundering Marked Bills through your contacts.",
       "grade": "bronze",
-      "guide": "Track money earned through contacts specifically from laundering Marked Bills. Ordinary income should not be treated as qualifying progress. Compare the PSN total with $250,000 and note each transaction; contact locations and payout rules are not pinned down here. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Marked Bills reportedly come from bank and payday loan jobs, and selling them to your contacts launders them. The $250,000 earnings total is reported to be cumulative, not yet checked in the game; keep using those contacts as jobs supply more bills.",
       "hidden": false,
       "target": 250000,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -1124,23 +807,15 @@
       "name": "Treat Yo Self",
       "description": "Spend $100,000 across all shops.",
       "grade": "bronze",
-      "guide": "Combine this with purchases you already need, recording shop spending toward $100,000. Check which transactions advance PSN before buying expensive extras. The source does not define refunds, qualifying shop categories or whether property purchases count. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Shop spending is reported to accumulate across every kind of shop toward the $100,000 requirement. That cumulative behavior is reported, not yet checked in the game; count routine purchases toward the goal before planning additional spending.",
       "hidden": false,
       "target": 100000,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -1148,23 +823,15 @@
       "name": "Little Boxes",
       "description": "Purchase all garage properties.",
       "grade": "bronze",
-      "guide": "Keep a property ledger and purchase distinct garages until all eight tracked properties are owned. Budget after other necessary purchases and compare the count after each acquisition. Garage addresses, prices and availability requirements are not pinned down here. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "The Vice City Real Estate app reportedly unlocks after Chapter 2's Daily Driver and lists eight purchasable garages costing about $160,000 together. Buy those eight rather than counting garages awarded by the story, which reportedly do not qualify. These details are reported, not yet checked in the game; the extra spaces also support On the Spot.",
       "hidden": false,
       "target": 8,
       "kind": "collectibles",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     },
     {
@@ -1172,23 +839,15 @@
       "name": "On the Spot",
       "description": "Register 10 vehicles to the Scooter Bros app.",
       "grade": "bronze",
-      "guide": "Record vehicles successfully registered through Scooter Bros rather than simply encountered or owned. Check progress toward ten and favor different vehicles until repeat eligibility is known. The app's unlock condition and registration procedure are not established by the sources used here. Advice inferred from the official description; not yet checked in the game. No missable condition is reported; this trophy is reported to remain available after the story.",
+      "guide": "Chapter 2's Moses mission reportedly opens Scooter Bros: bring Moses a stolen car, select Respray, then Register. From Chapter 3, a standard tracker at Pay 'n' Spray reportedly offers another registration route. Each car reportedly needs an empty garage space, so buy garages first and use cheap cars until ten are registered; all these steps are reported, not yet checked in the game.",
       "hidden": false,
       "target": 10,
       "kind": "activities",
       "missable": false,
       "sources": [
-        {
-          "name": "Exophase · official trophy list",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "PSNProfiles · PSN count column",
-          "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"
-        },
-        {
-          "name": "Builder advice · description inference, not checked in game"
-        }
+        {"name": "Exophase · official trophy list", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"},
+        {"name": "PSNProfiles · PSN count column", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi"},
+        {"name": "Builder advice · description inference, not checked in game"}
       ]
     }
   ]
