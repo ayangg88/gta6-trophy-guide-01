@@ -1,3 +1,4 @@
+// Leonida Platinum Guide: an independently written offline field guide and personal trophy ledger.
 // A working gta6-trophy-guide-01 entry (Node 22, standard library only): the guide is this directory's app/ folder,
 // plain static files a browser opens at app/index.html (ES modules, CSS, no build step), offline: it loads nothing
 // over the network, and its trophy list and guides are app/data/trophies.json. The program hands it in: it copies app/
@@ -14,13 +15,16 @@
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
-import { cpSync, existsSync, mkdirSync, writeFileSync } from 'node:fs';
+import { cpSync, existsSync, mkdirSync, readdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildDossier } from './vendor/makefun-frontend.ts';
 
 const here = fileURLToPath(new URL('.', import.meta.url));
 const out = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
+if (!existsSync(join(here, 'app/index.html'))) throw new Error('Missing guide: app/index.html');
+const images = readdirSync(join(here, 'screenshots'), { withFileTypes: true }).filter(entry => entry.isFile() && /\.(png|jpe?g)$/i.test(entry.name));
+if (images.length < 3 || images.length > 4) throw new Error('The guide needs three or four screenshots.');
 
 mkdirSync(out, { recursive: true });
 cpSync(join(here, 'app'), join(out, 'app'), { recursive: true });
